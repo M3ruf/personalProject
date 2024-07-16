@@ -1,1 +1,2 @@
-This is my first CS Project. I used the Java AWT package to create a Tic-Tac-Toe game. 2 users can play locally. A scoreboard has been added, along with the option to restart and to reset the scoreboard and start fresh.
+This is my first CS Project. I used the Java AWT package to create a Tic-Tac-Toe game. 2 users can play locally. A scoreboard has been added, along with the option to restart and reset the scoreboard and start fresh. 
+src>Main.Java is used to run the code whereas src>TicTacToe.Java holds the code for the game.
